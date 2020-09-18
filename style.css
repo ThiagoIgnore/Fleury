@@ -1,0 +1,68 @@
+/*SECTION COLORS*/
+.row {
+	padding-bottom: 60px;
+}
+.s1 {
+	background-color: #da2963;
+}
+.s2 {
+	background-color: gainsboro;
+	margin: 0;
+}
+.s3 {
+	background-image: url(img/entrence.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.s4 {
+	background-color: #da2963;
+}
+/*CUSTOM*/
+.nav-bg  {
+	background-color: #da2963;
+	font-weight: 700;
+	
+}
+img.img-border {
+	border-radius: 10px;
+}
+.col-bg h5 {
+	color: #da2963;
+}
+.col-bg p {
+	color: gray;
+}
+.card-custom h5 {
+	color: darkslategrey
+}
+.card-custom p {
+	font-size: 14px;
+	color: grey;
+}
+.card {
+	width: 100%;
+	height: 100%;
+}
+.servicosexclusivos {
+	display: block;
+	margin-top: 25%;
+}
+.btn-primary {
+	color: #fff;
+	border-bottom-left-radius: 45%;
+	border-top-left-radius: 45%;
+	border-top-right-radius: 45%;
+	border-bottom-right-radius: 45%;
+	background-color: #da2963;
+}
+div.box {
+	padding-top: 200px;
+	padding-right: 150px;
+	color: #fff;
+	overflow: hidden;
+}
+.footer li a, h5 {
+	color: #fff;
+	font-weight: 700;
+}
